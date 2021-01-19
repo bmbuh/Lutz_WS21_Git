@@ -1,5 +1,6 @@
 # install.packages("usethis")
 library(usethis)
+#This is the package used for connecting R to Github
 
 library(tidyverse)
 library(haven)
