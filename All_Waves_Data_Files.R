@@ -1,6 +1,7 @@
 # install.packages("usethis")
 library(usethis)
 #This is the package used for connecting R to Github
+#I can also use the push and pull commands to edit on Github
 
 library(tidyverse)
 library(haven)
